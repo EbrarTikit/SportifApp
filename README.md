@@ -54,7 +54,7 @@ Sportif, hayatına spor katmak isteyen ama bir türlü bunu başaramayan insanla
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantıları discord kanalı üzerinden yapılmıştır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. 
+- **Daily Scrum**: Daily Scrum toplantıları discord kanalı üzerinden yapılmıştır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. (https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2009.58.55.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]([https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png](https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2007.48.35.png)) 
