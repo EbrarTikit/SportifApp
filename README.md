@@ -1,24 +1,26 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+Takım Flutter 86
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Tuğçe Nur Erçetin: Scrum Master 
+- Ebrar Tikit : Product Owner
+- Sultan Görgülü : Developer
+- Gözde Tozkoparan : Developer
+- Özgür Deniz : Aktif Olmayan Üye
 
 ## Ürün İsmi
 
---Scrap App--
+--Sportif--
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 52 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM91uftI=/))
 
 ## Ürün Açıklaması
+Sportif, 
 
 Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
 
@@ -36,12 +38,11 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- Formda olmak isteyen insanlar
+- Sıkılaşmak isteyenler
+- Obezler
+- Yağ yakımı isteyenler
+- Spor yaparken hangi kas grubu çalıştırdığını bilmek isteyenler
 
 ## Juriye Not
 
@@ -65,6 +66,7 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
   ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
   ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
