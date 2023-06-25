@@ -17,7 +17,7 @@ Takım Flutter 86
 
 ## Product Backlog URL
 
-[Flutter Team 86 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM91uftI=/))
+[Flutter Team 86 Miro Backlog Board](https://miro.com/app/board/uXjVM91uftI=/)
 
 ## Ürün Açıklaması
 Sportif, hayatına spor katmak isteyen ama bir türlü bunu başaramayan insanlar için geliştirilmektedir. İnsanların bilmedikleri için spor yapmadıklarını düşünmekteyiz. Çünkü bilinçsiz yapılan, öncesinde ısınma yapmadan yapılan sporlar kişinin vücudunda hasarlar bırakabilir. Biz de kişiler hedeflediği bölgeye özgü hareketlerle spor yaparak hem sıkılaşsın hem de daha sağlıklı bir vücuda ulaşsınlar istiyoruz.
