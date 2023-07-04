@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "89266618727",
+    "project_id": "sportif-bt-firebase",
+    "storage_bucket": "sportif-bt-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89266618727:android:f8d78107354ac8c59b2fc2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkIza10udvRAv7mSDpXM6MFvaRGrnBKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89266618727-15i4k5epn5eacd584f73pntaupg1codb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportif"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89266618727:android:d51dc2d96261235e9b2fc2",
+        "android_client_info": {
+          "package_name": "com.example.sportif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkIza10udvRAv7mSDpXM6MFvaRGrnBKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89266618727-15i4k5epn5eacd584f73pntaupg1codb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportif"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89266618727:android:103382c01daa52719b2fc2",
+        "android_client_info": {
+          "package_name": "com.example.sportif1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkIza10udvRAv7mSDpXM6MFvaRGrnBKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89266618727-5c6bvniaavd3jv3rh6gnnbu1v7qd3qqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89266618727-15i4k5epn5eacd584f73pntaupg1codb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
