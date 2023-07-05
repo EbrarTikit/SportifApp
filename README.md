@@ -85,21 +85,36 @@ Alınan kararlar: Kullanıcı giriş sayfası, login sayfası, home ve alt kateg
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: ## Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprintte tamamlanan 100 puan ardından 2. sprintte en azından 140 puan alınması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantıları ekipteki kişilerin  yoğunluğu sebebiyle whatsap üzerinden yazışmalarla yapılmış. Ortal larar verileceği durumlarda discord kanalı üzerinden 30 dakikalık toplantılar yapılmıitır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. (https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2009.58.55.png) 
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Daily%20Scrum.mp4])
 
 - **Sprint board update**: Sprint board screenshotları: 
-
-
+![Backlog 1]([[https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20Resmi%202023-07-05%2004.55.02.png](https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20Resmi%202023-07-03%2020.35.46.png)])
 
 - **Ürün Durumu**: Ekran görüntüleri:
- 
-- **Sprint Review**: 
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-03%20220156.png])
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-03%20220156.png])
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-04%20131232.png])
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Screenshot_20230704_130455.png])
+([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Screenshot_20230704_130513.png])
 
+- **Sprint Review**: 
+Alınan kararlar: Uygulamanın içeriği güncellenmiş ve sadeleştirilmiştir. Önceden belirtilen ürünün kısıtlı zamanda yeteri kadar ilgilenemeyeceğinden sadeleştirme kararı alınmıştır. Kullanıcı giriş sayfası, login, to do list ololuşturulması hedeflenmiştir.
+
+Kullanıcı giriş sayfası, login sayfası, home ve alt kategorileri içeren sayfaların UI tasarımları yapılmıştır. Login ve giriş sayfasının backendi kodlanmıştır. Sprint Review katılımcıları: Ebrar Tikit
 
 - **Sprint Retrospective:**
-
+  - Roller ile ilgili düzenleme yapılmış, scrum master belirlenmiştir.
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmıştır. Uygun takvim belirlenmiştir.
+  - Uygulama çıkış aşamaları değerlendirilmiştir.
+  - Takımın sınav haftası olması sebebiyle proje aşamaları tam netleşmemiştir.
+ 
  
 
 
@@ -107,8 +122,8 @@ Alınan kararlar: Kullanıcı giriş sayfası, login sayfası, home ve alt kateg
 
 ## Product Backlog URL
 
-
-
+[Flutter Team 86 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM91uftI=/))
+ 
 ---
 
 # Sprint 3
