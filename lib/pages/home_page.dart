@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
               exerciseName = value;
             },
             decoration: const InputDecoration(
-              hintText: 'Egzersiz ',
+              hintText: 'Egzersiz ismi',
             ),
           ),
           actions: [
