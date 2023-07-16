@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
       routes: {
         "/loginPage": (context) => LoginPage(),
         "/signUp": (context) => SignUp(),
-        "/homePage": (context) => HomePage()
+        "/homePage": (context) => HomePage(),
+         // Added route for AddList
       },
       theme: ThemeData(
         scaffoldBackgroundColor: CustomColors.scaffoldBackgroundColor,
