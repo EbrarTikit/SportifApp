@@ -107,13 +107,14 @@ Alınan kararlar: Kullanıcı giriş sayfası, login sayfası, home ve alt kateg
 - **Sprint Review**: 
 Alınan kararlar: Uygulamanın içeriği güncellenmiş ve sadeleştirilmiştir. Önceden belirtilen ürünün kısıtlı zamanda yeteri kadar ilgilenemeyeceğinden sadeleştirme kararı alınmıştır. Kullanıcı giriş sayfası, login, to do list ololuşturulması hedeflenmiştir.
 
-Kullanıcı giriş sayfası, login sayfası, home ve alt kategorileri içeren sayfaların UI tasarımları yapılmıştır. Login ve giriş sayfasının backendi kodlanmıştır. Sprint Review katılımcıları: Ebrar Tikit
+Kullanıcı giriş sayfası, login sayfası, home ve alt kategorileri içeren sayfaların UI tasarımları yapılmıştır. Login ve giriş sayfasının backendi kodlanmıştır. Sprint Review katılımcıları: Ebrar Tikit, Sultan Görgülü, Gözde Tozkoparan, Tuğçe Nur Erçetin
+
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master belirlenmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmıştır. Uygun takvim belirlenmiştir.
   - Uygulama çıkış aşamaları değerlendirilmiştir.
-  - Takımın sınav haftası olması sebebiyle proje aşamaları tam netleşmemiştir.
+  - proje aşamaları tam netleşmiştir.
+  - Görevler ve aşamalara göre takvim düzenlemesi yapılmıştır.
  
  
 
@@ -122,8 +123,32 @@ Kullanıcı giriş sayfası, login sayfası, home ve alt kategorileri içeren sa
 
 ## Product Backlog URL
 
-[Flutter Team 86 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM91uftI=/))
+[Flutter Team 86 Miro Backlog Board] [(https://miro.com/app/board/uXjVM91uftI=/?share_link_id=57533662044)]
+
  
 ---
 
 # Sprint 3
+
+---
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk iki sprintte tamamlanan 240 kredi ardından kalan 100 puanlık kredinin tamamlanmaı hedeflenmektedir. 
+
+Daily Scrum: Daily Scrum toplantıları ekipteki kişilerin yoğunluğu sebebiyle whatsap üzerinden yazışmalarla yapılmış. Ortal larar verileceği durumlarda discord kanalı üzerinden 30 dakikalık toplantılar yapılmıitır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. (https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2009.58.55.png) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Daily%20Scrum.mp4])
+
+Sprint board update: Sprint board screenshotları: Backlog 1
+
+Ürün Durumu: Ekran görüntüleri: ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-03%20220156.png]) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-03%20220156.png]) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-04%20131232.png]) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Screenshot_20230704_130455.png]) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Screenshot_20230704_130513.png])
+
+Sprint Review: Alınan kararlar: Uygulamanın içeriği güncellenmiş ve sadeleştirilmiştir. Önceden belirtilen ürünün kısıtlı zamanda yeteri kadar ilgilenemeyeceğinden sadeleştirme kararı alınmıştır. Kullanıcı giriş sayfası, login, to do list oluşturulması hedeflenmiştir.
+
+Home sayfası, to do list sayfalarının backendi kodlanmıştır. Firebase düzenlemeleri yapılmıştır. Kod için iyileştirilmeler yapılmıştır. Developer arkadaşlardan Flutter da çalışmayan bölümler için farklı alternatif yollar aranmıştır. Androis Studio'da çalışmıştır. Sprint Review katılımcıları: Ebrar Tikit, Sultan Görgülü, Gözde Tozkoparan, Tuğçe Nur Erçetin
+
+Sprint Retrospective:
+Takvimle ilgili değerlendirme yapılmıştır.
+Uygulama çıkış aşamaları değerlendirilmiştir, çıkışta yaşanacak sorunlar üzerine çalışmalar yapılmıştır.
+Backend kodlamalarının hatasız hale getirilmesi için iyileştirmeler yapılmış.
+Proje sunumu için video çekimi için görevlendirme yapılmıştır.
+Sunum için slayt sunum dosyası hazırlanmıştır.
