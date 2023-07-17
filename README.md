@@ -136,10 +136,10 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. İlk iki sprintte tamamlanan 240 kredi ardından kalan 100 puanlık kredinin tamamlanmaı hedeflenmektedir. 
 
-Daily Scrum: Daily Scrum toplantıları ekipteki kişilerin yoğunluğu sebebiyle whatsap üzerinden yazışmalarla yapılmış. Ortal larar verileceği durumlarda discord kanalı üzerinden 30 dakikalık toplantılar yapılmıitır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. (https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2009.58.55.png) ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Daily%20Scrum.mp4])
+Daily Scrum: Daily Scrum toplantıları ekipteki kişilerin yoğunluğu sebebiyle whatsap üzerinden yazışmalarla yapılmış. Ortal larar verileceği durumlarda discord kanalı üzerinden 30 dakikalık toplantılar yapılmıitır. Herkes kendi free zamanına göre çalıştığından mesajlaşarak da birbirimizden günlük haberdar olduk. (https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/Sprint%201%20Documents/Ekran%20Resmi%202023-06-19%2009.58.55.png) ([https://github.com/tugcenurercetin/Sportif/blob/master/ProjectManagement/sprint%203/Screenrecorder-2023-07-17-10-36-48-498%20(1).mp4])
 
 Sprint board update: Sprint board screenshotları: Backlog 1
-[https://github.com/tugcenurercetin/Sportif/blob/master/ProjectManagement/sprint%203/Ekran%20Resmi%202023-07-17%2010.32.52.png])
+[https://github.com/tugcenurercetin/Sportif/blob/master/ProjectManagement/sprint%203/Ekran%20Resmi%202023-07-17%2011.09.05.png])
 
 Ürün Durumu: Ekran görüntüleri: ([https://github.com/tugcenurercetin/Sportif/blob/master/Project%20Management/sprint%202/Ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88%202023-07-03%20220156.png]) ([https://github.com/tugcenurercetin/Sportif/blob/master/ProjectManagement/sprint%203/WhatsApp%20Image%202023-07-17%20at%2000.11.51.jpeg])
 
